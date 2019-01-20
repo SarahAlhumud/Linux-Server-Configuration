@@ -57,7 +57,7 @@ http://www.postgresqltutorial.com/postgresql-reset-password/
 - Install Git
 https://www.liquidweb.com/kb/install-git-ubuntu-16-04-lts/
 
-Step4: Deploy the Item Catalog project:
+Step5: Deploy the Item Catalog project:
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 
 Thank for my friend [Sarah Alhabeeb](https://github.com/SarahAlhabeeb) for helping me to deploy my application.
