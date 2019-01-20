@@ -51,6 +51,7 @@ https://classroom.udacity.com/nanodegrees/nd004-connect/parts/226fb92a-d5dc-4d10
 
 - Install and configure PostgreSQL
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
+
 http://www.postgresqltutorial.com/postgresql-reset-password/
 
 - Install Git
@@ -61,8 +62,4 @@ https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-applicati
 
 Thank for my friend [Sarah Alhabeeb](https://github.com/SarahAlhabeeb) for helping me to deploy my application.
 
-### Location of SSH key that is created for the grader user on the server:
-```
-~/.ssh/authorized_keys
-```
 
