@@ -25,7 +25,7 @@ sudo ufw status
 ```
 - Many of Python modules are installed.
 
-### The Resources
+### The References
 Step1: Get your server:
 - Elham’s Session
 https://www.youtube.com/watch?v=ZGbheHcVddk&feature=youtu.be
