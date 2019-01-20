@@ -10,13 +10,20 @@ I make `grader` user as suder:
 ```
 username: grader
 password: 123123
-```
-
-### URL of Restaurants Menu List Application:
-[http://18.185.59.64.xip.io/](http://18.185.59.64.xip.io/)
+``` 
 
 ### Restaurants Menu List Application:
-Restaurants Menu List is an application hosted by this server. The source code of this application is [item-catalog](https://github.com/SarahAlhumud/item-catalog)
+Restaurants Menu List is an application hosted by this server. The source code of this application is [item-catalog](https://github.com/SarahAlhumud/item-catalog).
+- URL of Restaurants Menu List Application:
+[http://18.185.59.64.xip.io/](http://18.185.59.64.xip.io/)
+
+### Configuration Modification
+- Changing the SSH port from 22 to 2200.
+- Configure the Uncomplicated Firewall (UFW) to only allow incoming connections for SSH (port 2200), HTTP (port 80), and NTP (port 123). To check the UFW status:
+```
+sudo ufw status
+```
+- Many of Python modules are installed.
 
 ### The Resources
 Step1: Get your server:
