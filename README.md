@@ -6,6 +6,7 @@ to log in server as `grader` user:
 ```
 ssh -i ~/.ssh/grader_key -p 2200 grader@18.185.59.64
 ```
+where `~/.ssh/grader_key` is a location of generated key. The key is provided through submission process. 
 I make `grader` user as suder:
 ```
 username: grader
