@@ -39,7 +39,6 @@ https://classroom.udacity.com/nanodegrees/nd004-connect/parts/226fb92a-d5dc-4d10
 
 
 Step3: Create user grader:
-- Initial Server Setup with Ubuntu 16.04 (6 steps)
 https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04?utm_content=initial-server-setup-with-ubuntu-16-04
 
 Step4: Prepare to deploy your project:
